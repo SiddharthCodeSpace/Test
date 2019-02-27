@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-01-20T12:20:17Z" name="Default suite" finished-at="2019-01-20T12:24:59Z" duration-ms="281620">
+    <groups>
+    </groups>
+    <test started-at="2019-01-20T12:20:17Z" name="Default test" finished-at="2019-01-20T12:24:59Z" duration-ms="281620">
+      <class name="com.automation.Bisa.Testd">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:com.automation.Bisa.Testd@609cd4d8]" started-at="2019-01-20T12:20:17Z" name="openApp" finished-at="2019-01-20T12:20:29Z" duration-ms="11566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="loginTest()[pri:0, instance:com.automation.Bisa.Testd@609cd4d8]" started-at="2019-01-20T12:20:29Z" name="loginTest" finished-at="2019-01-20T12:24:59Z" duration-ms="270002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.Bisa.Testd@609cd4d8]" started-at="2019-01-20T12:24:59Z" name="tearDown" finished-at="2019-01-20T12:24:59Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.Bisa.Testd -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
